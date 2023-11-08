@@ -12,6 +12,8 @@ I set the goal as a list of following.
   - [ ] Enemy attack
   - [ ] Camera move
   - [ ] Music and sound effects
+  - [ ] Keyboard and mouse inputs
+  - [ ] Gamepad input
 - [ ] Engineering
   - [ ] Build process
   - [ ] Resource packing
