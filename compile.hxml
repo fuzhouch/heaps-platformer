@@ -1,0 +1,12 @@
+-cp src
+-lib heaps
+-lib hlsdl
+-hl Main.hl
+-main Main
+
+# ==================================================================
+# Default window size can be set here via command:
+#     -D windowSize=1280x720
+# I prefer we set it in code, either hard-coding, or we read it from
+# a configuration file.
+# ==================================================================
