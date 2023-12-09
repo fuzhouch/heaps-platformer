@@ -1,0 +1,59 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "main.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "/home/fuzhouch/projects/gaming/heapsio/heaps-platformer/res/tileset-claw-machines-0001.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.json": {
+            "scale": 0.9032421875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.4705271807292,
+                "y": 384.72516541971197
+            }
+        },
+        "main.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 397.5,
+                "y": -96.5
+            }
+        },
+        "tileset-claw-machines-0001.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/home/fuzhouch/projects/gaming/heapsio/heaps-platformer/assets",
+    "last.imagePath": "/home/fuzhouch/projects/gaming/heapsio/heaps-platformer/assets",
+    "map.height": 12,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 20,
+    "openFiles": [
+        "main.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "main.tmx",
+        "/home/fuzhouch/projects/gaming/heapsio/heaps-platformer/res/tileset-claw-machines-0001.tsx",
+        "tileset-claw-machines-0001.tsx",
+        "main.json"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
